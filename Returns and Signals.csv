@@ -1,4 +1,4 @@
-,TSLA_Adj Close,TSLA_Volume,TSLA_Returns,vol_trend_signal,bollinger_signal,obv_crossover_signal,sentiment_signal
+Date,TSLA_Adj Close,TSLA_Volume,TSLA_Returns,vol_trend_signal,bollinger_signal,obv_crossover_signal,sentiment_signal
 2019-01-03,60.071998596191406,34826000,-0.031471683849021326,1.0,0.0,-1.0,-1
 2019-01-17,69.46199798583984,18383500,0.0036410765019605495,1.0,0.0,1.0,-1
 2019-01-18,60.45199966430664,120754000,-0.1297111886037302,-1.0,0.0,-1.0,-1
