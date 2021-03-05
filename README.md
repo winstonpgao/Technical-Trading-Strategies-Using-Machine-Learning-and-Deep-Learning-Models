@@ -176,7 +176,7 @@ With the help of ML models, only ``Gradient Boost Model`` able to outperform the
     
     
 **Summary:** 
-<br> **`Technical indicators`** by themselve usually **underperforms** the **``buy-hold``** stock trading strategy. 
+<br> **`Technical indicators`** by themselves usually **underperforms** the **``buy-hold``** stock trading strategy. 
 <br> Using **`ML models`** to `combine the technical indicators`, could improve the accumulated returns. 
 <br> Especially, the **``gradient boost model``** would be recommended.
 <br> The **accuracy scores** for ML models are around **55% to 60%**.
