@@ -121,7 +121,8 @@ The area under the `PR curve (AUPRC)` is a metric for how good the model is in a
 **`EBAY:`**
 <br>The Graph below is the `accumulated returns` (test data set) for each individual technical indicator.
 
-From the graph, we can see that using one indicator along will **NOT** able to perform at least as good as just simply buy and hold.    
+The blue line with little dots is the accumulated return for the stock over the testing period. And the others are the accumulated return for each indicator.
+From the graph, it is clear that by using one indicator alone, it is highly unlikely able to generate returns that at least as good as, just simply buy and hold strategy.
 
 <img src="Resources/EBAY_indicator_accumulated_return.png" alt="drawing" width="600"/>
 
