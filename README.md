@@ -12,7 +12,7 @@ https://github.com/leongaoleon/Project2.git
 3. Returns and Signal.csv
 4. Resources
 5. project2.pptx
-6. project2.md
+6. README.md
 
 ### Instruction:
 (1) Project2_PART1_Returns_Signals_Sentiment.ipynb is focus on downloading stock data and calculate technical trading signals.
@@ -120,7 +120,8 @@ The area under the `PR curve (AUPRC)` is a metric for how good the model is in a
 ## **Predicted Results vs. Actual Results:**
 **`EBAY:`**
 <br>The Graph below is the `accumulated returns` (test data set) for each individual technical indicator.
-<br>From the graph, we can see that using one indicator along will **NOT** able to perform at least as good as just simply buy and hold.    
+
+From the graph, we can see that using one indicator along will **NOT** able to perform at least as good as just simply buy and hold.    
 
 <img src="Resources/EBAY_indicator_accumulated_return.PNG" alt="drawing" width="600"/>  
 
