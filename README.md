@@ -119,15 +119,14 @@ The area under the `PR curve (AUPRC)` is a metric for how good the model is in a
 
 ## **Predicted Results vs. Actual Results:**
 **`EBAY:`**
-
-<img src="Resources/EBAY_indicator_accumulated_return.PNG" alt="drawing" width="600"/>   
-
-<br>Here is the `accumulated returns` (test data set) for each individual technical indicator.
+<br>The Graph below is the `accumulated returns` (test data set) for each individual technical indicator.
 <br>From the graph, we can see that using one indicator along will **NOT** able to perform at least as good as just simply buy and hold.    
+
+<img src="Resources/EBAY_indicator_accumulated_return.PNG" alt="drawing" width="600"/>  
 
 <img src="Resources/EBAY_ML_accumulated_return.PNG" alt="drawing" width="600"/>       
 
-<br>Instead of just relying on one particular indicator, we have combined `five technical indicators`.
+Instead of just relying on one particular indicator, we have combined `five technical indicators`.
 <br>As these indicators have `low correlations` as described in `PART I`, combing them might provide a more solid signal.
 
 These indicators might suggest `inconsistent` signals, so we will use ` ML models` to help with the decision.
