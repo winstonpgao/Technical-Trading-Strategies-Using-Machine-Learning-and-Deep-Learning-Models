@@ -21,6 +21,13 @@ https://github.com/leongaoleon/Project2.git
 ### **Project Two:**
 **We want to exam if using machine learning (ML) models could improve the trading result of technical trading strategies (indicators).**
 
+### **Project Two Job Descriptions:**
+Liam Crogh: research and prepare trading indicators/signals.
+Darren Forde: research and prepare the sentiment trading indicators/signals.
+Khushboo Bhatnagar: research machine learning models.
+Leon Gao: Consolidate codes for trading signals. Applying Marchine Learning Algos. And Producing model performance reports/summary.
+Harrison Marcus Clark: prepare PPT
+
 ### **Trading Signals:**
 **1. Exponential Moving Average (EMA) Crossover**
 <br>When the short period EMA cuts above the longer period EMA, it is a bullish signal.
