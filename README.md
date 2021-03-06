@@ -146,7 +146,7 @@ The area under the `PR curve (AUPRC)` is a metric for how good the model is in a
 The blue line with little dots is the accumulated return for the stock over the testing period. And the others are the accumulated return for each indicator.
 From the graph, it is clear that by using one indicator alone, it is highly unlikely able to generate returns that at least as good as, just simply buy and hold strategy.
 
-<img src="Resources/EBAY_indicator_accumulated_return.png" alt="drawing" width="600"/>
+<img src="Resources/EBAY_indicator_accumulated_return.PNG" alt="drawing" width="600"/>
 
 <img src="Resources/EBAY_ML_accumulated_return.png" alt="drawing" width="600"/>
 
