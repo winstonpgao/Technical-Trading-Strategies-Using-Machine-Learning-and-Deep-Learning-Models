@@ -21,24 +21,27 @@ https://github.com/leongaoleon/Project2.git
 
 ### **Project Two Job Descriptions:**
 Liam Crogh: research and prepare trading indicators/signals.
-Darren Forde: research and prepare the sentiment trading indicators/signals.
-Khushboo Bhatnagar: research machine learning models.
-Leon Gao: Consolidate codes for trading signals. Applying Marchine Learning Algos. And Producing model performance reports/summary.
-Harrison Marcus Clark: prepare PPT
+<br>Darren Forde: research and prepare the sentiment trading indicators/signals.
+<br>Khushboo Bhatnagar: research machine learning models.
+<br>Leon Gao: Consolidate codes for trading signals. Applying Marchine Learning Algos. And Producing model performance reports/summary.
+<br>Harrison Marcus Clark: prepare PPT
 
 
 ### **Project Two:**
 **We want to exam if using machine learning (ML) models could improve the trading result of technical trading strategies (indicators).**
 
 ### **Data Preparation:**
-In order to include the sentiment indicator, multiple sources of news have been examined, such as NEWS API, Returns. And we have made the decision to choose **2019-1-1 to current (2021-3-2)** as the time frame for downloading stock data (**daily prices**) from the YAHOO FINANCE, and news data from Financialmodelingprep for this project. As the maximum free news are only available for this period.
+In order to include the sentiment indicator, multiple sources of news have been examined, such as NEWS API, Returns. 
+<br>And we have made the decision to choose **2019-1-1 to current (2021-3-2)** as the time frame for downloading stock data (**daily prices**) from the YAHOO FINANCE, 
+<br>and news data from Financialmodelingprep for this project. As the maximum free news are only available for this period.
 
 Data Cleaning:
-a.	Stock data from YAHOO FINANCE is clean.
-b.	For the News data, we have removed characters that are not letters, punctuations, and stop words. The cleaned title and text have been consolidated into “content” columns to be further analyzed via Vader.
+<br>a.	Stock data from YAHOO FINANCE is clean.
+<br>b.	For the News data, we have removed characters that are not letters, punctuations, and stop words. 
+<br>The cleaned title and text have been consolidated into “content” columns to be further analyzed via Vader.
 
 The Testing Period:
-2020-09-25 to 2021-03-02 
+**2020-09-25 to 2021-03-02**
 
 ### **Trading Signals:**
 **1. Exponential Moving Average (EMA) Crossover**
