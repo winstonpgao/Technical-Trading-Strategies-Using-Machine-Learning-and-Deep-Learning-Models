@@ -2,9 +2,6 @@
 ### Additional Installation:
 **!pip install yfinance**
 
-### Project Repo:
-https://github.com/leongaoleon/Project2.git
-<br> SSH: git@github.com:leongaoleon/Project2.git
 
 ### Files:
 1. Project2_PART1_Returns_Signals_Sentiment.ipynb
