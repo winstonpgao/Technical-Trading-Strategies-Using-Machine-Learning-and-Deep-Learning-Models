@@ -1,4 +1,4 @@
-## Project Two: Improve Technical Trading Strategies Using Machine Learning Models
+## Project Name: Improve Technical Trading Strategies Using Machine Learning Models
 ### Additional Installation:
 **!pip install yfinance**
 
