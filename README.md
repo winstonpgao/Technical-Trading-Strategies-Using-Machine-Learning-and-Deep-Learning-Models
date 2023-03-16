@@ -16,16 +16,9 @@
 <br> (2) Project2_PART2_ML.ipynb is focus on applying machine learning models to the combined trading signals, and to discuss the findings.
 <br> Selecting a ticker in the first notebook to run codes, it will produce a csv file, then use that file to run the second notebook.
 
-### **Project Two Job Descriptions:**
-Liam Crogh: research and prepare trading indicators/signals.
-<br>Darren Forde: research and prepare the sentiment trading indicators/signals.
-<br>Khushboo Bhatnagar: research machine learning models.
-<br>Leon Gao: Consolidate codes for trading signals. Applying Marchine Learning Algos. And Producing model performance reports/summary.
-<br>Harrison Marcus Clark: prepare PPT
 
-
-### **Project Two:**
-**We want to exam if using machine learning (ML) models could improve the trading result of technical trading strategies (indicators).**
+### **Goal:**
+**The purpose of this project is to exam if using machine learning (ML) models could improve the trading result of technical trading strategies (indicators).**
 
 ### **Data Preparation:**
 In order to include the sentiment indicator, multiple sources of news have been examined, such as NEWS API, Returns. 
